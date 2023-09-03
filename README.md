@@ -27,6 +27,7 @@ To get started with this project, follow these steps:
    
 7. Monitor the output of your ESP32 by running: idf.py monitor
 
+![WhatsApp Image 2023-09-04 at 12 13 50 AM](https://github.com/Embedded-systems-using-RTOS/blinking-led-using-esp32/assets/96942247/d0e782cc-3fd1-47f5-8ccd-bddef05013f7)
 
 
 
